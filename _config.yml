@@ -7,7 +7,8 @@ title: Ken's Bodybuilding Blog
 subtitle: A recovering bodybuilder's blog
 author: ken
 simple_search: https://www.google.com/search
-description:
+description: The blog of a recovering bodybuilder
+keywords: muscle, abs, bodybuilding, health, fitness, happiness, goals, emotional, well-being, progress, gains, maximum, sets, reps, weight, volume, dumbbell, barbell, mass
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -95,7 +96,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-74758186-1
 
 # Facebook Like
 facebook_like: true
