@@ -16,4 +16,4 @@ Repeat this cycle for 45 seconds straight, then take 15 seconds of rest.
 
 Do 10 sets. Total duration of entire work out should be 10 minutes max.
 
-Push yourself!
+Push yourself! You gotta be sweating by the 3rd set, and dripping by the 5th.
