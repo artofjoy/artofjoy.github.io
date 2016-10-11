@@ -3,7 +3,7 @@ layout: post
 title: "Turning Negatives to Positives"
 date: 2016-10-11 08:20:44 -0700
 comments: true
-categories:
+categories: [mindset, dominate, no excuses, never give up]
 ---
 
 This morning was a perfect example of maintaining that positive mindset throughout this journey. Here's what happened:
