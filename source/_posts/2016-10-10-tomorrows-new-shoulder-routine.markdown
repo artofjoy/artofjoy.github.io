@@ -10,11 +10,11 @@ As I mentioned in yesterday's blog post about making new routines, I've also cre
 
 Here it goes:
 
-1. **Arnold Shoulder Press | Rear Deltoid DB Lateral**
+1. **Seated Military Shoulder Press | Rear Deltoid DB Lateral**
     - superset, 3x10, 45 seconds rest
     - check ego here, seriously, go light weight
     - rear deltoid DB lateral should
-2. **Seated Military Shoulder Press | Plate Front Raises**
+2. **Arnold Shoulder Press | Plate Front Raises**
     - superset, 3x10, 45 seconds rest
 3. **Face Pull | Shoulder Shrug**
     - superset, 3x10, 45 seconds rest
