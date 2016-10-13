@@ -3,7 +3,7 @@ layout: post
 title: "Shoulder/Traps Workout Update"
 date: 2016-10-12 09:56:01 -0700
 comments: true
-categories:
+categories: [weight lifting, legs]
 ---
 
 The gym was open today!
