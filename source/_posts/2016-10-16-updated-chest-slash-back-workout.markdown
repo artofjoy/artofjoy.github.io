@@ -3,7 +3,7 @@ layout: post
 title: "Updated Chest/Back Workout"
 date: 2016-10-16 18:31:47 -0700
 comments: true
-categories:
+categories: [chest, back, weight lifting]
 ---
 
 Here's my update for the chest and upper back workout performed last Friday
