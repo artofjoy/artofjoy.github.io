@@ -43,7 +43,7 @@ Shoulders & Traps
 Legs
 =====
 1. **Leg Press**
-    - 4 sets x (12 10 8 8) x 520
+    - 4 sets x (12 10 8 8) x 540
 2. **Smith Machine Lunge**
     - 4 sets x (12 10 8 8) x 65
 3. **Leg Extension**
