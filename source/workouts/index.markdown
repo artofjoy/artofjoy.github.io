@@ -24,6 +24,10 @@ Arms
 6. **Straight Bar Pushdown (Pronated) | Straight Bar Pushdown (Supinated)**
     - 3 x 10 x 25lbs, 3 x 10 x 25lbs
 
+Notes:
+
+For the Preacher Curl supersetted with the Neutral DB Curl, I had to employ a lot of rest-pause to get through the 10 reps. Let's see how close I can get to completing the superset without rest-pausing.
+
 Shoulders & Traps
 =====
 1. **Seated Military Shoulder Press | Rear Deltoid DB Lateral**
@@ -53,6 +57,7 @@ Legs
 5. **Seated Calf Raise**
     - 4 sets x (12 10 8 8) x 50
 
+
 Chest & Upper Back
 =====
 1. **Dumbbell Chest Press | Lat Pulldown**
@@ -60,7 +65,11 @@ Chest & Upper Back
 2. **Inclined Dumbbell Chest Press | Barbell Rows**
     - 4 sets x (12 10 8 8) x 60 | 4 sets x (12 10 8 8) x 95
 3. **Cable Flies | Seated Rows**
-    - 4 sets x (12 10 8 8) x 20 | 4 sets x (12 10 8 8) x 42.5
+    - 4 sets x (12 10 8 8) x 20 | 4 sets x (12 10 8 8) x 85
+
+Notes:
+
+The last sets of each exercise required rest-pause technique, except for the **Cable Flies | Seated Rows**. Compared to last time, I definitely was able to do less rest-pause, which means the muscles are growing. I'll continue doing what works!
 
 Lower Back & Abs
 =====
@@ -68,3 +77,7 @@ Lower Back & Abs
     - 5 sets x (12 10 8 8 6) x 185 | 5 sets x (12 10 8 8 6) x body
 2. **Lower Back Extension | Reverse Crunches**
     - 5 sets x (12 10 8 8 6) x 25 | 5 sets x (12 10 8 8 6) x body
+
+Notes:
+
+I was able to complete all sets with minimal rest-pause. The last rep in all of the lower-back extension sets required a rest-pause. Next time I want to up the weight on the deadlifts.
