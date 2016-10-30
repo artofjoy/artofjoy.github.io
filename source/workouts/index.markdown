@@ -26,7 +26,14 @@ Arms
 
 Notes:
 
-For the Preacher Curl supersetted with the Neutral DB Curl, I had to employ a lot of rest-pause to get through the 10 reps. Let's see how close I can get to completing the superset without rest-pausing.
+For the barbell curl, only the last 4 reps of the last set did I need to employ rest-pause.
+For the preacher curl | neutral DB curl superset, halfway through all of the sets, I had to rest pause
+Finally, for the inclined dumbbell curl supersets, no rest pause.
+
+For Dips, I moved the weight up to bodyweight + 25lbs. I like this weight, as I was able to do 10 of these on the first set, then 5 on the second, and 5 on the last. This is a good weight to be at for next time.
+For the rope pushdowns, I had rest pause on the second and last set near the end
+For the straight bar pushdowns, we can move the weight up on this to 30lbs.
+
 
 Shoulders & Traps
 =====
