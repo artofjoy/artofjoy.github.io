@@ -9,34 +9,36 @@ categories: [lean protein, muscle, shredded, metabolism, TEF]
 Everyone knows that if you want to get lean, you need to burn calories. And if you want to burn calories, you need a higher metabolism, ideally a higher resting metabolism. Well, besides employing exercise to increase your metabolism, you can also eat properly to supercharge your resting metabolic rate. Here's how:
 
 Every meal should include the following:
+
 1. Lean protein
 2. Fibrous carbs/Fruits
 3. Starchy carbs
 
-Here are a few examples:
+*Here are a few examples:*
+
 1. Chicken breast (lean protein)
 2. Broccoli (fibrous carbs)
 3. Brown Rice (starchy carbs)
 
-OR
+*OR*
 
 1. Eggs (lean protein)
 2. Banana (fruit)
 3. Oatmeal (starchy carbs)
 
-OR
+*OR*
 
 1. Salmon (lean protein)
 2. Asparagus (fibrous carbs)
 3. Sweet Potato (starchy carbs)
 
-OR
+*OR*
 
 1. Tilapia (lean protein)
 2. Spinach (fibrous carbs)
 3. Potato (starchy carbs)
 
-The reason is simple and boils down to one term you shall keep in mind: **thermic effect of food (TEF)**. This is simply a measure (in % terms) of how much your body works to break down the food. So if you consume something with 100 calories but has 20% TEF, you actually end up consuming only 80 calories. In essence, a calorie is not really a calorie. But we'll get to that in more detail in another post.
+The reason is simple, and it boils down to one term you should keep in mind: **[Thermic Effect of Food (TEF)](http://www.ironmanmag.com.au/nutrition/weight-loss/8-burn-calories-while-you-eat-the-thermic-effect-of-food "Thermic Effect of Food")**. This is simply a measure (in % terms) of how much your body works to break down the food. So if you consume something with 100 calories but has 20% TEF, you actually end up consuming only 80 calories. In essence, a calorie is not really a calorie. But we'll get to that in more detail in another post.
 
 Fibrous carbs (like vegetables and fruits) have an extremely high **TEF**. They have around 20% TEF.
 
