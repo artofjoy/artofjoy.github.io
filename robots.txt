@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://artofjoy.github.io/sitemap.xml 

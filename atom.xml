@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Art of Joy Blog]]></title>
+  <link href="http://artofjoy.github.io/atom.xml" rel="self"/>
+  <link href="http://artofjoy.github.io/"/>
+  <updated>2016-11-02T20:08:54-07:00</updated>
+  <id>http://artofjoy.github.io/</id>
+  <author>
+    <name><![CDATA[ken]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
