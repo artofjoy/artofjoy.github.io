@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://kensbodybuildingblog.github.io
-title: Ken's Bodybuilding Blog
-subtitle: A recovering bodybuilder's blog
+url: http://artofjoy.github.io
+title: Art of Joy Blog
+subtitle: In search of everlasting happiness
 author: ken
-simple_search: https://www.google.com/search
-description: The blog of a recovering bodybuilder
+simple_search: https://www.google.com/#q=joy+happiness
+description: The Art of Joy Blog helps those willing to seek lasting happiness in their lives
 keywords: muscle, abs, bodybuilding, health, fitness, happiness, goals, emotional, well-being, progress, gains, maximum, sets, reps, weight, volume, dumbbell, barbell, mass
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -72,7 +72,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: bodybuildingken
+twitter_user: artofjoyblogger
 twitter_tweet_button: true
 
 # Google +1
