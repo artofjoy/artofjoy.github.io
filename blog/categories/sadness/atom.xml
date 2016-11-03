@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Art of Joy]]></title>
-  <link href="http://artofjoy.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sadness | The Art of Joy]]></title>
+  <link href="http://artofjoy.github.io/blog/categories/sadness/atom.xml" rel="self"/>
   <link href="http://artofjoy.github.io/"/>
   <updated>2016-11-02T21:31:06-07:00</updated>
   <id>http://artofjoy.github.io/</id>
